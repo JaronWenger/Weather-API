@@ -1,6 +1,6 @@
 # Weather-API
 
-This website integrates a weather api to retrieve data from any city in the world.  The site was developed with vanilla JavaScript.
+This website integrates a weather API to retrieve data from any city in the world.  The site was developed with vanilla JavaScript.
 
 Below is a link to this project:
 
